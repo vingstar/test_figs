@@ -18,3 +18,8 @@
   ![LOGO from latticeX forum](figs/logo_forum.png)
   - 3.3 The same Logo link with html mark
      <p align="center"><img width="50%" src=https://forum.latticex.foundation/uploads/default/original/2X/1/10c9e7fcf968be3feb757df104b244974c92f68f.png alt="Rosetta logo" /></p>
+
+
+test Hits:
+
+[![HitCount](http://hits.dwyl.com/LatticeX-Foundation/Rosetta.svg)](http://hits.dwyl.com/LatticeX-Foundation/Rosetta)
